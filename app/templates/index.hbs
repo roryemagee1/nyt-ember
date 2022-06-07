@@ -3,9 +3,6 @@
 </Banner>
   <div class="articles">
   <ul class="results">
-    {{!-- <li><ArticleCard @article-card={{@model}}/></li>
-    <li><ArticleCard /></li>
-    <li><ArticleCard /></li> --}}
     {{#each @model as |article-card|}}
       <li><ArticleCard @article-card={{article-card}}/></li>
     {{/each}}
