@@ -244,13 +244,16 @@ p {
 
 .one-article img {
   border-radius: 5px;
+  /*  */
+  width: 250px;
+  /*  */
 }
 
 .one-article .image {
-  flex-grow: 0;
-  flex-basis: 150px;
-  margin: 20px 25px;
+  /* flex-grow: 0;
+  flex-basis: 150px; */
   text-align: center;
+  margin: 20px 25px;
 }
 
 .one-article button.image {
