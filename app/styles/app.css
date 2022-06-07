@@ -123,7 +123,7 @@ p {
   bottom: 5px;
 }
 
-.rentals label span {
+.articles label span {
   font-size: 140%;
   margin: 50px auto 20px;
   display: block;
@@ -131,7 +131,7 @@ p {
   font-style: italic;
 }
 
-.rentals input {
+.articles input {
   padding: 11px;
   font-size: 18px;
   width: 500px;
@@ -224,10 +224,10 @@ p {
 }
 
 /**
- * Individual Rental Listing
+ * Individual Articles
  */
 
-.rental {
+.one-article {
   margin-top: 15px;
   background-color: #f6f6f6;
   padding: 20px 25px;
@@ -237,22 +237,22 @@ p {
   flex-wrap: wrap;
 }
 
-.rental:hover {
+.one-article:hover {
   background-color: #f3f3f3;
 }
 
-.rental img {
+.one-article img {
   border-radius: 5px;
 }
 
-.rental .image {
+.one-article .image {
   flex-grow: 0;
   flex-basis: 150px;
   margin: 20px 25px;
   text-align: center;
 }
 
-.rental button.image {
+.one-article button.image {
   position: relative;
   cursor: pointer;
   border: none;
@@ -260,11 +260,11 @@ p {
   z-index: 1;
 }
 
-.rental button.image:focus {
+.one-article button.image:focus {
   outline: none;
 }
 
-.rental button.image:after {
+.one-article button.image:after {
   content: "";
   position: absolute;
   top: 0;
@@ -280,20 +280,20 @@ p {
   transition: opacity 0.25s ease-in-out;
 }
 
-.rental button.image:focus:after, .rental button.image:hover:after {
+.one-article button.image:focus:after, .one-article button.image:hover:after {
   opacity: 0.1;
 }
 
-.rental .image img {
+.one-article .image img {
   max-width: 100%;
 }
 
-.rental .image.large {
+.one-article .image.large {
   margin: 30px 25px 50px 25px;
   flex-basis: 100%;
 }
 
-.rental .image small {
+.one-article .image small {
   display: block;
   margin-top: 5px;
   margin-bottom: -15px;
@@ -304,13 +304,13 @@ p {
   position: relative;
 }
 
-.rental .image.large small {
+.one-article .image.large small {
   margin-top: 10px;
   margin-bottom: 0px;
   font-size: 110%;
 }
 
-.rental .details {
+.one-article .details {
   flex-basis: 50%;
   flex-grow: 2;
   display: flex;
@@ -321,108 +321,108 @@ p {
   align-content: space-around;
 }
 
-.rental h3 {
+.one-article h3 {
   flex-basis: 100%;
 }
 
-.rental h3 a {
+.one-article h3 a {
   display: inline;
 }
 
-.rental .detail {
+.one-article .detail {
   flex-basis: 50%;
   font-weight: 300;
   font-style: italic;
   white-space: nowrap;
 }
 
-.rental .detail span {
+.one-article .detail span {
   font-weight: 400;
   font-style: normal;
 }
 
-.rental .map {
+.one-article .map {
   flex-grow: 0;
   flex-basis: 150px;
   font-size: 0;
   margin: 0px 25px;
 }
 
-.rental .map img {
+.one-article .map img {
   width: 150px;
   height: 150px;
 }
 
-.rental.detailed {
+.one-article.detailed {
   background: none;
   align-items: flex-start;
 }
 
-.rental.detailed .image {
+.one-article.detailed .image {
   flex-basis: 320px;
 }
 
-.rental.detailed .image.large {
+.one-article.detailed .image.large {
   margin: 30px 25px 50px 25px;
   flex-basis: 100%;
 }
 
-.rental.detailed .details {
+.one-article.detailed .details {
   height: auto;
 }
 
-.rental.detailed h3 {
+.one-article.detailed h3 {
   font-size: 200%;
   margin-bottom: 10px;
 }
 
-.rental.detailed .detail {
+.one-article.detailed .detail {
   margin: 5px 0px;
   flex-basis: 100%;
   flex-shrink: 2;
 }
 
-.rental.detailed .description {
+.one-article.detailed .description {
   white-space: normal;
   flex-basis: 100%;
   flex-shrink: 1;
 }
 
-.rental.detailed .map {
+.one-article.detailed .map {
   flex-basis: 100%;
   margin: 50px 25px 25px 25px;
 }
 
-.rental.detailed .map img {
+.one-article.detailed .map img {
   width: 100%;
   height: auto;
 }
 
 @media only screen and (max-width: 919px) {
-  .rental.detailed .image, .rental.detailed .image.large {
+  .one-article.detailed .image, .one-article.detailed .image.large {
     margin: 30px 25px 25px 25px;
     flex-basis: 100%;
     cursor: default;
   }
 
-  .rental.detailed .image:hover {
+  .one-article.detailed .image:hover {
     flex-basis: 100%;
     cursor: default;
   }
 
-  .rental.detailed .image small {
+  .one-article.detailed .image small {
     display: none;
   }
 
-  .rental.detailed button.image:hover:after {
+  .one-article.detailed button.image:hover:after {
     opacity: 0;
   }
 
-  .rental.detailed button.image:focus:after {
+  .one-article.detailed button.image:focus:after {
     opacity: 0.1;
   }
 
-  .rental.detailed .map {
+  .one-article.detailed .map {
     margin-top: 25px;
   }
 }
