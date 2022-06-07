@@ -80,17 +80,18 @@ p {
 
 .menu {
   height: 4em;
-  background-color: #677ae4;
-  background-color: #05526A;
-  background-color: #e46855;
+  /* background-color: #677ae4; */
+  /* background-color: #05526A; */
+  background-color: #fff;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
 }
 
 .menu h1 {
   position: relative;
   padding: 5px 0 0 8px;
-  color: #f9f9f9;
+  color: #000;
   font-size: 1.8em;
-  font-style: italic;
 }
 
 .menu a,
@@ -101,7 +102,7 @@ p {
 .menu a {
   text-decoration: none;
   padding: 0 15px;
-  color: #fff;
+  color: #000;
   font-size: 20px;
   font-weight: bold;
 }
