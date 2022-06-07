@@ -5,7 +5,9 @@
   <ul class="results">
     {{#each @model as |article-card|}}
       <li>
-        <ArticleCard @article-card={{article-card}}/>
+        <LinkTo @route="detail" @model={{@article-card}}>
+          <ArticleCard @article-card={{article-card}}/>
+        </LinkTo>
       </li>
     {{/each}}
   </ul>

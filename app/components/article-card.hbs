@@ -1,20 +1,18 @@
-<LinkTo @route="detail" @model={{@article-card}}>
-  <article class="one-article">
-    <Image @article-card={{@article-card}}/>
-    <div class="detail">
-      <h3>{{@article-card.title}}</h3>
-      <div class="detail author">
-        <span></span> {{@article-card.byline}}
-      </div>
-      <div class="detail type">
-        <span>Subject:</span> {{@article-card.section}}
-      </div>
-      <div class="detail abstract">
-        <span>Abstract:</span> {{@article-card.abstract}}
-      </div>
-      <div class="detail etcetera">
-        <span>Published:</span> {{@article-card.published_date}}
-      </div>
+<article class="one-article">
+  <Image @article-card={{@article-card}}/>
+  <div class="detail">
+    <h3>{{@article-card.title}}</h3>
+    <div class="detail author">
+      <span></span> {{@article-card.byline}}
     </div>
-  </article>
-</LinkTo>
+    <div class="detail type">
+      <span>Subject:</span> {{@article-card.section}}
+    </div>
+    <div class="detail abstract">
+      <span>Abstract:</span> {{@article-card.abstract}}
+    </div>
+    <div class="detail etcetera">
+      <span>Published:</span> {{@article-card.published_date}}
+    </div>
+  </div>
+</article>
