@@ -1,0 +1,2395 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+  "section": "Arts",
+  "last_updated": "2022-06-06T14:50:32-04:00",
+  "num_results": 39,
+  "results": [
+  {
+  "section": "theater",
+  "subsection": "",
+  "title": "The Many Faces of the 2022 Tony Nominees",
+  "abstract": "As Broadway embarked on its road to recovery, these 45 theater artists helped pave the way.",
+  "url": "https://www.nytimes.com/2022/06/06/theater/tony-nominees-portraits.html",
+  "uri": "nyt://article/0557ba65-1d08-5b3b-b9d8-9c3248285e81",
+  "byline": "By Jingyu Lin, Michael Paulson, Jolie Ruben and Matt Stevens",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T17:25:55-04:00",
+  "created_date": "2022-06-06T05:00:40-04:00",
+  "published_date": "2022-06-06T05:00:40-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Theater",
+  "Tony Awards (Theater Awards)",
+  "Photography"
+  ],
+  "org_facet": [],
+  "per_facet": [],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/12/arts/12TONYS-PHOTOBOOTH-promo-ruth/merlin_207892497_88e3be11-4e04-474c-8884-1e0e7c214c86-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1639,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Jingyu Lin for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/12/arts/12TONYS-PHOTOBOOTH-promo-ruth/12TONYS-PHOTOBOOTH-ruth-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Jingyu Lin for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/12/arts/12TONYS-PHOTOBOOTH-promo-ruth/12TONYS-PHOTOBOOTH-ruth-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Jingyu Lin for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3Mmqua0"
+  },
+  {
+  "section": "arts",
+  "subsection": "television",
+  "title": "‘Ms. Marvel’ Introduces a New Hero (and a New Actress)",
+  "abstract": "This Disney+ series, about a teenage Muslim superhero, represents the first screen role for its 19-year-old star, Iman Vellani.",
+  "url": "https://www.nytimes.com/2022/06/06/arts/television/ms-marvel-iman-vellani.html",
+  "uri": "nyt://article/effb0fe0-aa75-5ae3-8518-32e3bdeb0c98",
+  "byline": "By Dave Itzkoff",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T14:43:36-04:00",
+  "created_date": "2022-06-06T05:00:19-04:00",
+  "published_date": "2022-06-06T05:00:19-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Television",
+  "Ms. Marvel (TV Program)",
+  "Content Type: Personal Profile",
+  "Comic Books and Strips"
+  ],
+  "org_facet": [
+  "Marvel Entertainment",
+  "Disney Plus"
+  ],
+  "per_facet": [
+  "Vellani, Iman"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/12/arts/12msmarvel1/merlin_206940132_d991a2bc-3364-493c-93d1-55279349ad6d-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1578,
+  "width": 1578,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Iman Vellani has transformed from a Marvel fan into a Marvel star.",
+  "copyright": "Bethany Mollenkof for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/12/arts/12msmarvel1/12msmarvel1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Iman Vellani has transformed from a Marvel fan into a Marvel star.",
+  "copyright": "Bethany Mollenkof for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/12/arts/12msmarvel1/12msmarvel1-thumbLarge-v3.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Iman Vellani has transformed from a Marvel fan into a Marvel star.",
+  "copyright": "Bethany Mollenkof for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3xlyFiQ"
+  },
+  {
+  "section": "arts",
+  "subsection": "music",
+  "title": "‘You Don’t Become Lou Reed Overnight.’ A New Exhibition Proves It.",
+  "abstract": "“Lou Reed: Caught Between the Twisted Stars” offers glimpses of a life in rock ’n’ roll — from doo-wop to “Metal Machine Music” — and tracks the evolution of one of music’s polarizing legends.",
+  "url": "https://www.nytimes.com/2022/06/06/arts/music/lou-reed-caught-between-the-twisted-stars.html",
+  "uri": "nyt://article/b6a85045-b504-5edd-87f8-3889399b1ec6",
+  "byline": "By Ben Sisario and Erik Tanner",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T13:04:20-04:00",
+  "created_date": "2022-06-06T09:00:25-04:00",
+  "published_date": "2022-06-06T09:00:25-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Archives and Records",
+  "Pop and Rock Music",
+  "Lou Reed: Caught Between the Twisted Stars (Exhibit)"
+  ],
+  "org_facet": [
+  "Lincoln Center for the Performing Arts"
+  ],
+  "per_facet": [
+  "Reed, Lou (1942-2013)"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/06reed-promo/06reed-promo-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1365,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Erik Tanner for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/06reed-promo/06reed-promo-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Erik Tanner for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/06reed-promo/06reed-promo-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Erik Tanner for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3mgJ7Se"
+  },
+  {
+  "section": "arts",
+  "subsection": "television",
+  "title": "‘Irma Vep’ Returns, More Meta Than Ever",
+  "abstract": "In this new HBO series by Olivier Assayas, a continuation of his self-referential cult film from 1996, past and present are inextricably intertwined.",
+  "url": "https://www.nytimes.com/2022/06/06/arts/television/irma-vep-hbo.html",
+  "uri": "nyt://article/dc7a22ef-eb46-5f89-affa-225e45d57fe0",
+  "byline": "By Elisabeth Vincentelli",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T12:32:40-04:00",
+  "created_date": "2022-06-06T12:32:40-04:00",
+  "published_date": "2022-06-06T12:32:40-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Television",
+  "Irma Vep (TV Program)"
+  ],
+  "org_facet": [
+  "Home Box Office"
+  ],
+  "per_facet": [
+  "Assayas, Olivier",
+  "Vikander, Alicia (1988- )",
+  "Cheung, Maggie"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/06irmavep-1/merlin_207369399_2728d8c1-b1a2-4099-9720-c99cc8ee1dcf-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1366,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Alicia Vikander and Olivier Assayas teamed on an “Irma Vep” series for HBO. Each iteration of the story brings new ripples of self-reference.",
+  "copyright": "Violette Franchi for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/06irmavep-1/06irmavep-1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Alicia Vikander and Olivier Assayas teamed on an “Irma Vep” series for HBO. Each iteration of the story brings new ripples of self-reference.",
+  "copyright": "Violette Franchi for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/06irmavep-1/06irmavep-1-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Alicia Vikander and Olivier Assayas teamed on an “Irma Vep” series for HBO. Each iteration of the story brings new ripples of self-reference.",
+  "copyright": "Violette Franchi for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/394lQ37"
+  },
+  {
+  "section": "arts",
+  "subsection": "music",
+  "title": "A Young Horn Player Could Become ‘a Real Legend’",
+  "abstract": "At 21, Nathaniel Silberschlag landed a principal seat with the storied Cleveland Orchestra. Now tenured, he doesn’t ever want to leave.",
+  "url": "https://www.nytimes.com/2022/06/06/arts/music/nathaniel-silberschlag-french-horn-cleveland-orchestra.html",
+  "uri": "nyt://article/b509f657-2d63-516d-beb3-bc104ca0fd87",
+  "byline": "By Joshua Barone",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T13:31:59-04:00",
+  "created_date": "2022-06-06T12:37:34-04:00",
+  "published_date": "2022-06-06T12:37:34-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Classical Music"
+  ],
+  "org_facet": [
+  "Cleveland Orchestra"
+  ],
+  "per_facet": [
+  "Welser-Most, Franz",
+  "Landsman, Julie",
+  "Silberschlag, Nathaniel"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/07/arts/06horn-1/merlin_207738720_cc925677-3e3d-4141-9295-5fa50d787977-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1536,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Nathaniel Silberschlag, a musician from a family of musicians, at Severance Hall, the Cleveland Orchestra’s home.",
+  "copyright": "Ross Mantle for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/07/arts/06horn-1/06horn-1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Nathaniel Silberschlag, a musician from a family of musicians, at Severance Hall, the Cleveland Orchestra’s home.",
+  "copyright": "Ross Mantle for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/07/arts/06horn-1/06horn-1-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Nathaniel Silberschlag, a musician from a family of musicians, at Severance Hall, the Cleveland Orchestra’s home.",
+  "copyright": "Ross Mantle for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3OeciS7"
+  },
+  {
+  "section": "movies",
+  "subsection": "",
+  "title": "For Joel Kim Booster, Making ‘Fire Island’ Was a Real Trip",
+  "abstract": "The writer and star of “Fire Island” reflects on making the rare romantic comedy that puts gay Asian American men at its center.",
+  "url": "https://www.nytimes.com/2022/06/03/movies/fire-island-joel-kim-booster-interview.html",
+  "uri": "nyt://article/7c467b28-d91c-584f-aeb6-808cebc6c5ba",
+  "byline": "By Kyle Buchanan",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T14:40:46-04:00",
+  "created_date": "2022-06-03T11:11:29-04:00",
+  "published_date": "2022-06-03T11:11:29-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Movies",
+  "Fire Island (Movie)",
+  "Asian-Americans",
+  "Homosexuality and Bisexuality",
+  "Actors and Actresses",
+  "Content Type: Personal Profile"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Booster, Joel Kim (Comedian)",
+  "Ahn, Andrew (Film Director)",
+  "Yang, Bowen (1990- )",
+  "Ricamora, Conrad"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/03joel-kim-booster1/03joel-kim-booster1-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1536,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Joel Kim Booster at Akbar in Los Angeles. He said that before filming started, he thought, “This is either going to change my life or it’s going to be the biggest flop of my career.”",
+  "copyright": "Michael Tyrone Delaney for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/03joel-kim-booster1/03joel-kim-booster1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Joel Kim Booster at Akbar in Los Angeles. He said that before filming started, he thought, “This is either going to change my life or it’s going to be the biggest flop of my career.”",
+  "copyright": "Michael Tyrone Delaney for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/03joel-kim-booster1/03joel-kim-booster1-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Joel Kim Booster at Akbar in Los Angeles. He said that before filming started, he thought, “This is either going to change my life or it’s going to be the biggest flop of my career.”",
+  "copyright": "Michael Tyrone Delaney for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3aFED5d"
+  },
+  {
+  "section": "arts",
+  "subsection": "dance",
+  "title": "Review: ‘Third Bird’ Doesn’t Quite Land",
+  "abstract": "The fashion designer Isaac Mizrahi is a terrific host, but this production at the Guggenheim Museum is awfully shaggy for an avian story, our critic writes.",
+  "url": "https://www.nytimes.com/2022/06/05/arts/dance/review-third-bird-guggenheim.html",
+  "uri": "nyt://article/bd310581-9cba-5013-a90c-d34489873356",
+  "byline": "By Brian Seibert",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T00:30:56-04:00",
+  "created_date": "2022-06-05T15:41:36-04:00",
+  "published_date": "2022-06-05T15:41:36-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Classical Music",
+  "Dancing",
+  "Third Bird (Musical Work)",
+  "Peter and the Wolf (Musical Work)",
+  "Museums"
+  ],
+  "org_facet": [
+  "Ensemble Signal",
+  "Guggenheim, Solomon R, Museum"
+  ],
+  "per_facet": [
+  "Mizrahi, Isaac",
+  "Muhly, Nico",
+  "Heginbotham, John",
+  "Prokofiev, Sergei"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/05THIRD-BIRD-REVIEW/merlin_208012935_bcb28583-b504-4cdf-b9a8-d9d122238986-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1367,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Third Bird” at the Guggenheim Museum is a companion piece to “Peter and the Wolf.”",
+  "copyright": "David Andrako, via Works & Process"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/05THIRD-BIRD-REVIEW/05THIRD-BIRD-REVIEW-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Third Bird” at the Guggenheim Museum is a companion piece to “Peter and the Wolf.”",
+  "copyright": "David Andrako, via Works & Process"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/arts/05THIRD-BIRD-REVIEW/05THIRD-BIRD-REVIEW-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Third Bird” at the Guggenheim Museum is a companion piece to “Peter and the Wolf.”",
+  "copyright": "David Andrako, via Works & Process"
+  }
+  ],
+  "short_url": "https://nyti.ms/3NPN0cy"
+  },
+  {
+  "section": "arts",
+  "subsection": "music",
+  "title": "Broadway’s Beloved Basement Club, Feinstein’s/54 Below, Turns 10",
+  "abstract": "The venue beneath what was once Studio 54 will pick up an honor at the Tony Awards for excellence in the theater as it marks its anniversary with a pair of concerts.",
+  "url": "https://www.nytimes.com/2022/06/03/arts/music/feinsteins-54-below-anniversary.html",
+  "uri": "nyt://article/44879465-5f16-53d8-b5bd-bd286a050a29",
+  "byline": "By Elysa Gardner",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T13:57:04-04:00",
+  "created_date": "2022-06-03T12:56:03-04:00",
+  "published_date": "2022-06-03T12:56:03-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Theater",
+  "Culture (Arts)",
+  "Bars and Nightclubs",
+  "Music",
+  "Tony Awards (Theater Awards)"
+  ],
+  "org_facet": [
+  "Feinstein's/54 Below (Manhattan, NY, Music Venue)"
+  ],
+  "per_facet": [
+  "Feinstein, Michael (1956- )"
+  ],
+  "geo_facet": [
+  "New York City"
+  ],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03below-anniv1/merlin_207788766_e4557639-377a-4ba4-ac60-cfc703435128-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1362,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "The cabaret and musical theater veteran Lillias White onstage at Feinstein’s/54 Below. The venue is celebrating its 10th anniversary.",
+  "copyright": "Nina Westervelt for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03below-anniv1/03below-anniv1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "The cabaret and musical theater veteran Lillias White onstage at Feinstein’s/54 Below. The venue is celebrating its 10th anniversary.",
+  "copyright": "Nina Westervelt for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03below-anniv1/03below-anniv1-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "The cabaret and musical theater veteran Lillias White onstage at Feinstein’s/54 Below. The venue is celebrating its 10th anniversary.",
+  "copyright": "Nina Westervelt for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3xekk7C"
+  },
+  {
+  "section": "movies",
+  "subsection": "",
+  "title": "Mark Rylance on ‘Jerusalem’ and the Golf Comedy ‘Phantom of the Open’",
+  "abstract": "The acclaimed British actor explains the links between his tour de force stage turn and a recent string of subdued screen roles.",
+  "url": "https://www.nytimes.com/2022/06/03/movies/mark-rylance-phantom-of-the-open-jerusalem.html",
+  "uri": "nyt://article/432a736d-4950-5dff-8263-a1a3d4e80191",
+  "byline": "By Dave Itzkoff",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T21:12:26-04:00",
+  "created_date": "2022-06-03T07:00:08-04:00",
+  "published_date": "2022-06-03T07:00:08-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Content Type: Personal Profile",
+  "Actors and Actresses",
+  "Theater",
+  "Jerusalem (Play)",
+  "Movies",
+  "The Phantom of the Open (Movie)"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Rylance, Mark"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03mark-rylance1/merlin_207383766_f196fe57-736b-4010-96a8-f2764b2688d6-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1537,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Over the years of performing, Mark Rylance said, he’s learned “there’s no bottom to the depth of insanity that will come up through me.”",
+  "copyright": "Robbie Lawrence for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03mark-rylance1/03mark-rylance1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Over the years of performing, Mark Rylance said, he’s learned “there’s no bottom to the depth of insanity that will come up through me.”",
+  "copyright": "Robbie Lawrence for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03mark-rylance1/03mark-rylance1-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Over the years of performing, Mark Rylance said, he’s learned “there’s no bottom to the depth of insanity that will come up through me.”",
+  "copyright": "Robbie Lawrence for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3NkolNu"
+  },
+  {
+  "section": "theater",
+  "subsection": "",
+  "title": "Asked to Adapt a Classic Play, This Writer Rethought Her Life",
+  "abstract": "As she sought the truth for her characters on the page, Mara Vélez Meléndez’s real self began to emerge. Now she’s making her Off Broadway debut.",
+  "url": "https://www.nytimes.com/2022/06/03/theater/mara-velez-melendez-soho-rep.html",
+  "uri": "nyt://article/669f75f3-e789-55eb-b8b7-aa96bd05b1c4",
+  "byline": "By Jose Solís",
+  "item_type": "Article",
+  "updated_date": "2022-06-04T14:46:21-04:00",
+  "created_date": "2022-06-03T13:43:14-04:00",
+  "published_date": "2022-06-03T13:43:14-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Theater",
+  "Notes on Killing Seven Oversight, Management and Economic Stability Board Members (Play)",
+  "Writing and Writers",
+  "Puerto Ricans",
+  "Transgender and Transsexuals",
+  "Content Type: Personal Profile"
+  ],
+  "org_facet": [
+  "Soho Rep"
+  ],
+  "per_facet": [
+  "Velez Melendez, Mara"
+  ],
+  "geo_facet": [
+  "Puerto Rico"
+  ],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/02mara-velez-1/02mara-velez-1-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1544,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Mara Vélez Meléndez’s play “Notes on Killing Seven Oversight, Management and Economic Stability Board Members” explores the intersection of the personal and the political at Soho Rep in Manhattan.",
+  "copyright": "Josefina Santos for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/02mara-velez-1/02mara-velez-1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Mara Vélez Meléndez’s play “Notes on Killing Seven Oversight, Management and Economic Stability Board Members” explores the intersection of the personal and the political at Soho Rep in Manhattan.",
+  "copyright": "Josefina Santos for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/02mara-velez-1/02mara-velez-1-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Mara Vélez Meléndez’s play “Notes on Killing Seven Oversight, Management and Economic Stability Board Members” explores the intersection of the personal and the political at Soho Rep in Manhattan.",
+  "copyright": "Josefina Santos for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3PZdGcY"
+  },
+  {
+  "section": "arts",
+  "subsection": "television",
+  "title": "Woman Testifies That Bill Cosby Kissed Her When She Was 14",
+  "abstract": "She testified at a civil trial in Los Angeles brought by another woman accusing Mr. Cosby of sexual assault. A spokesman for Mr. Cosby denied all the accusations against him.",
+  "url": "https://www.nytimes.com/2022/06/03/arts/television/bill-cosby-judy-huth-trial.html",
+  "uri": "nyt://article/c8e7099f-6895-53a3-a1b4-8b2c586dcb12",
+  "byline": "By Graham Bowley, Lauren Herstik and Douglas Morino",
+  "item_type": "Article",
+  "updated_date": "2022-06-04T11:38:13-04:00",
+  "created_date": "2022-06-03T17:11:31-04:00",
+  "published_date": "2022-06-03T17:11:31-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Sex Crimes",
+  "Child Abuse and Neglect",
+  "Women and Girls",
+  "Sexual Harassment",
+  "Suits and Litigation (Civil)"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Cosby, Bill",
+  "Huth, Judy (1959- )"
+  ],
+  "geo_facet": [
+  "Los Angeles (Calif)"
+  ],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/multimedia/03cosby-2/03cosby-2-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1428,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Bill Cosby in 2018.",
+  "copyright": "Matt Rourke/Associated Press"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/multimedia/03cosby-2/03cosby-2-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Bill Cosby in 2018.",
+  "copyright": "Matt Rourke/Associated Press"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/multimedia/03cosby-2/03cosby-2-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Bill Cosby in 2018.",
+  "copyright": "Matt Rourke/Associated Press"
+  }
+  ],
+  "short_url": "https://nyti.ms/3x6sOMR"
+  },
+  {
+  "section": "theater",
+  "subsection": "",
+  "title": "Chekhov Two Ways, With a Robot and Baryshnikov Along for the Ride",
+  "abstract": "With its production of “The Orchard,” juxtaposing the human and the virtual, the Arlekin Players continue taking creative leaps.",
+  "url": "https://www.nytimes.com/2022/06/03/theater/arlekin-players-theater-the-orchard.html",
+  "uri": "nyt://article/656d725d-a4ae-5172-bbd5-767253e6b2aa",
+  "byline": "By Elisabeth Vincentelli",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T05:00:19-04:00",
+  "created_date": "2022-06-03T05:00:19-04:00",
+  "published_date": "2022-06-03T05:00:19-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Theater",
+  "Russian Invasion of Ukraine (2022)",
+  "Quarantine (Life and Culture)",
+  "The Cherry Orchard (Play)"
+  ],
+  "org_facet": [
+  "Arlekin Players Theater",
+  "Baryshnikov Arts Center"
+  ],
+  "per_facet": [
+  "Denisova, Darya (Actor)",
+  "Golyak, Igor",
+  "Hecht, Jessica"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/arts/05arlekin1a/merlin_207052005_06d50633-2af4-4419-add0-4fed33c4fca5-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1366,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "The director Igor Golyak of the Arlekin Players Theater with the 12-foot robotic arm that sits at the center of his new adaptation of “The Cherry Orchard.”",
+  "copyright": "Amir Hamja for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/arts/05arlekin1a/05arlekin1a-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "The director Igor Golyak of the Arlekin Players Theater with the 12-foot robotic arm that sits at the center of his new adaptation of “The Cherry Orchard.”",
+  "copyright": "Amir Hamja for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/arts/05arlekin1a/05arlekin1a-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "The director Igor Golyak of the Arlekin Players Theater with the 12-foot robotic arm that sits at the center of his new adaptation of “The Cherry Orchard.”",
+  "copyright": "Amir Hamja for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3mclhak"
+  },
+  {
+  "section": "arts",
+  "subsection": "television",
+  "title": "‘P-Valley’: How Katori Hall Made a Progressive Show About Strippers",
+  "abstract": "Based on Hall’s 2015 play about a Southern strip club, her Starz series treats dancers as complex human beings, not set dressing.",
+  "url": "https://www.nytimes.com/2022/06/03/arts/television/p-valley-katori-hall.html",
+  "uri": "nyt://article/fe9b3b58-6c23-5c8a-983e-d64cc8ae3541",
+  "byline": "By Coralie Kraft",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T00:30:17-04:00",
+  "created_date": "2022-06-03T10:00:09-04:00",
+  "published_date": "2022-06-03T10:00:09-04:00",
+  "material_type_facet": "",
+  "kicker": "Ask a Showrunner",
+  "des_facet": [
+  "Strip Clubs and Strippers",
+  "Television",
+  "P-Valley (TV Program)",
+  "Content Type: Personal Profile"
+  ],
+  "org_facet": [
+  "Starz"
+  ],
+  "per_facet": [
+  "Hall, Katori"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03katori-ask1/03katori-ask1-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1546,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Katori Hall found acclaim with her first TV series, “P-Valley,” when it debuted in 2020. The second season premiered on Friday.",
+  "copyright": "Kendrick Brinson for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03katori-ask1/03katori-ask1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Katori Hall found acclaim with her first TV series, “P-Valley,” when it debuted in 2020. The second season premiered on Friday.",
+  "copyright": "Kendrick Brinson for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03katori-ask1/03katori-ask1-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Katori Hall found acclaim with her first TV series, “P-Valley,” when it debuted in 2020. The second season premiered on Friday.",
+  "copyright": "Kendrick Brinson for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3x95jCM"
+  },
+  {
+  "section": "arts",
+  "subsection": "music",
+  "title": "Angel Olsen Finds a New Gear in a Vintage Genre: Country",
+  "abstract": "“Big Time,” an album made at a tumultuous time in the singer-songwriter’s life, is charged with cleareyed emotion and heartbreaking moments.",
+  "url": "https://www.nytimes.com/2022/06/03/arts/music/angel-olsen-big-time-review.html",
+  "uri": "nyt://article/d7308254-1b70-5d17-ae11-0561ffbe4e3b",
+  "byline": "By Lindsay Zoladz",
+  "item_type": "Article",
+  "updated_date": "2022-06-04T14:47:20-04:00",
+  "created_date": "2022-06-03T11:27:51-04:00",
+  "published_date": "2022-06-03T11:27:51-04:00",
+  "material_type_facet": "",
+  "kicker": "Critic’s Pick",
+  "des_facet": [
+  "Big Time (Album)",
+  "Content Type: Personal Profile",
+  "Country Music"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Olsen, Angel"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03olsen-review1/merlin_207817530_f4aaca54-9f09-46b1-a9df-8c426883fe14-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 720,
+  "width": 900,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Angel Olsen’s “All Mirrors” from 2019 featured dark, almost gothic synth-rock. On “Big Time,” she turns to a notably tradition-bound genre: country.",
+  "copyright": "Angela Ricciardi"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03olsen-review1/03olsen-review1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 380,
+  "width": 571,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Angel Olsen’s “All Mirrors” from 2019 featured dark, almost gothic synth-rock. On “Big Time,” she turns to a notably tradition-bound genre: country.",
+  "copyright": "Angela Ricciardi"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03olsen-review1/03olsen-review1-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Angel Olsen’s “All Mirrors” from 2019 featured dark, almost gothic synth-rock. On “Big Time,” she turns to a notably tradition-bound genre: country.",
+  "copyright": "Angela Ricciardi"
+  }
+  ],
+  "short_url": "https://nyti.ms/3NMSl4m"
+  },
+  {
+  "section": "arts",
+  "subsection": "music",
+  "title": "Paul Vance, Lyricist Behind an ‘Itsy Bitsy’ Bikini, Dies at 92",
+  "abstract": "His daughter’s experience wearing a bikini on a beach in 1960 inspired him to write a novelty song that became a No. 1 hit.",
+  "url": "https://www.nytimes.com/2022/06/06/arts/music/paul-vance-dead.html",
+  "uri": "nyt://article/ca00c840-8cfd-5b4f-b6cd-68fe91695c2d",
+  "byline": "By Richard Sandomir",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T17:46:33-04:00",
+  "created_date": "2022-06-06T17:39:13-04:00",
+  "published_date": "2022-06-06T17:39:13-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Music",
+  "Deaths (Obituaries)",
+  "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini (Song)"
+  ],
+  "org_facet": [
+  "Associated Press"
+  ],
+  "per_facet": [
+  "Vance, Paul",
+  "Pockriss, Lee"
+  ],
+  "geo_facet": [
+  "Brooklyn (NYC)"
+  ],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/obituaries/06vance-image1/06vance-image1-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1509,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Paul Vance in an undated photo. His “bikini” song was recorded by Brian Hyland, a 16-year-old heartthrob from Queens, and it spent 15 weeks on the Billboard Hot 100 chart. ",
+  "copyright": "via Vance family"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/obituaries/06vance-image1/06vance-image1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Paul Vance in an undated photo. His “bikini” song was recorded by Brian Hyland, a 16-year-old heartthrob from Queens, and it spent 15 weeks on the Billboard Hot 100 chart. ",
+  "copyright": "via Vance family"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/obituaries/06vance-image1/06vance-image1-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Paul Vance in an undated photo. His “bikini” song was recorded by Brian Hyland, a 16-year-old heartthrob from Queens, and it spent 15 weeks on the Billboard Hot 100 chart. ",
+  "copyright": "via Vance family"
+  }
+  ],
+  "short_url": "https://nyti.ms/3xnW4Ac"
+  },
+  {
+  "section": "books",
+  "subsection": "",
+  "title": "‘Raising Raffi,’ a Father’s Lucid Book About a Chaotic Scene",
+  "abstract": "In his new memoir, Keith Gessen wonders if his young son is more badly behaved than other children.",
+  "url": "https://www.nytimes.com/2022/06/06/books/review-raising-raffi-keith-gessen.html",
+  "uri": "nyt://article/a63cedc7-796b-56f8-b545-df12e04a2901",
+  "byline": "By Dwight Garner",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T15:08:47-04:00",
+  "created_date": "2022-06-06T12:57:42-04:00",
+  "published_date": "2022-06-06T12:57:42-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Raising Raffi (Book)",
+  "Books and Literature"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Gessen, Keith"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/07/books/07BOOKGESSEN1/07BOOKGESSEN1-superJumbo-v2.png",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1461,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": ""
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/07/books/07BOOKGESSEN1/07BOOKGESSEN1-threeByTwoSmallAt2X-v2.png",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": ""
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/07/books/07BOOKGESSEN1/07BOOKGESSEN1-thumbLarge-v2.png",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": ""
+  }
+  ],
+  "short_url": "https://nyti.ms/3aMMHBj"
+  },
+  {
+  "section": "arts",
+  "subsection": "music",
+  "title": "Harry Styles Repeats at No. 1 With ‘Harry’s House’",
+  "abstract": "The One Direction singer’s latest solo album is the first since Adele’s “30” to go back-to-back atop the Billboard chart after debuting there.",
+  "url": "https://www.nytimes.com/2022/06/06/arts/music/harry-styles-billboard-chart.html",
+  "uri": "nyt://article/05846e98-9ce6-52d5-82b7-bf0c0ddf4e80",
+  "byline": "By Joe Coscarelli",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T12:32:39-04:00",
+  "created_date": "2022-06-06T12:32:39-04:00",
+  "published_date": "2022-06-06T12:32:39-04:00",
+  "material_type_facet": "",
+  "kicker": "The Charts",
+  "des_facet": [
+  "Pop and Rock Music",
+  "Harry's House (Album)"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Styles, Harry"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/multimedia/06billboard/06billboard-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1365,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Harry’s House” moved another 160,500 album equivalent units in its second week of release, good enough to top the Billboard 200 album chart once again.",
+  "copyright": "Andrew Kelly/Reuters"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/multimedia/06billboard/06billboard-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Harry’s House” moved another 160,500 album equivalent units in its second week of release, good enough to top the Billboard 200 album chart once again.",
+  "copyright": "Andrew Kelly/Reuters"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/multimedia/06billboard/06billboard-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Harry’s House” moved another 160,500 album equivalent units in its second week of release, good enough to top the Billboard 200 album chart once again.",
+  "copyright": "Andrew Kelly/Reuters"
+  }
+  ],
+  "short_url": "https://nyti.ms/3awivKj"
+  },
+  {
+  "section": "travel",
+  "subsection": "",
+  "title": "Behold the Lionfish, as Transfixing as It Is Destructive",
+  "abstract": "Lionfish, while spectacularly beautiful, are wreaking havoc on Caribbean reef habitats.",
+  "url": "https://www.nytimes.com/2022/06/06/travel/lionfish-hunting-bonaire.html",
+  "uri": "nyt://article/8e4272a8-cf88-50b3-b37b-aa863eda9e01",
+  "byline": "By Lorenzo Mittiga",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T12:59:56-04:00",
+  "created_date": "2022-06-06T05:00:18-04:00",
+  "published_date": "2022-06-06T05:00:18-04:00",
+  "material_type_facet": "",
+  "kicker": "The World Through a Lens",
+  "des_facet": [
+  "Fish and Other Marine Life",
+  "Reefs",
+  "Fishing, Sport",
+  "Hunting and Trapping",
+  "Travel and Vacations",
+  "Photography",
+  "Marine Biology"
+  ],
+  "org_facet": [],
+  "per_facet": [],
+  "geo_facet": [
+  "Bonaire",
+  "Caribbean Area"
+  ],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/travel/06travel-lionfish-promo/merlin_207460176_bb40aa46-5373-4496-8f51-70ddadb8cb40-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1365,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "A sting from the fish’s long, venomous spines is extremely painful but rarely fatal.",
+  "copyright": "Lorenzo Mittiga/INSTITUTE"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/travel/06travel-lionfish-promo/merlin_207460176_bb40aa46-5373-4496-8f51-70ddadb8cb40-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "A sting from the fish’s long, venomous spines is extremely painful but rarely fatal.",
+  "copyright": "Lorenzo Mittiga/INSTITUTE"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/travel/06travel-lionfish-promo/merlin_207460176_bb40aa46-5373-4496-8f51-70ddadb8cb40-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "A sting from the fish’s long, venomous spines is extremely painful but rarely fatal.",
+  "copyright": "Lorenzo Mittiga/INSTITUTE"
+  }
+  ],
+  "short_url": "https://nyti.ms/3atURyj"
+  },
+  {
+  "section": "arts",
+  "subsection": "television",
+  "title": "What’s on TV This Week: The Tony Awards and ‘P-Valley’",
+  "abstract": "The 75th Tony Awards air on CBS. And Katori Hall’s “P-Valley” is back on Starz.",
+  "url": "https://www.nytimes.com/2022/06/06/arts/television/whats-on-tv-this-week-the-tony-awards-and-p-valley.html",
+  "uri": "nyt://article/0a5d14c2-e296-5fbb-8298-0737958561e6",
+  "byline": "By Gabe Cohn",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T01:00:06-04:00",
+  "created_date": "2022-06-06T01:00:06-04:00",
+  "published_date": "2022-06-06T01:00:06-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Television",
+  "Movies"
+  ],
+  "org_facet": [],
+  "per_facet": [],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/multimedia/06tvcol-tonys/06tvcol-tonys-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1366,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Jaquel Spivey in the musical “A Strange Loop,” which received the most Tony nominations of any show this year. The 75th Tony Awards ceremony will air on Sunday night.",
+  "copyright": "Sara Krulwich/The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/multimedia/06tvcol-tonys/06tvcol-tonys-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Jaquel Spivey in the musical “A Strange Loop,” which received the most Tony nominations of any show this year. The 75th Tony Awards ceremony will air on Sunday night.",
+  "copyright": "Sara Krulwich/The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/multimedia/06tvcol-tonys/06tvcol-tonys-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Jaquel Spivey in the musical “A Strange Loop,” which received the most Tony nominations of any show this year. The 75th Tony Awards ceremony will air on Sunday night.",
+  "copyright": "Sara Krulwich/The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3GQp3jc"
+  },
+  {
+  "section": "books",
+  "subsection": "",
+  "title": "Andrew Holleran’s Work Has Traced the Arc of Life. Now, He Takes on Death.",
+  "abstract": "Holleran, a pioneer in gay literature for a post-Stonewall age, touches on universal themes of loss and the transience of life in his latest novel, “The Kingdom of Sand.”",
+  "url": "https://www.nytimes.com/2022/06/05/books/andrew-holleran-kingdom-of-sand.html",
+  "uri": "nyt://article/6b7920a3-a9b6-5a0b-9047-73c9319724d9",
+  "byline": "By Joshua Barone",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T09:39:11-04:00",
+  "created_date": "2022-06-05T05:00:17-04:00",
+  "published_date": "2022-06-05T05:00:17-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Writing and Writers",
+  "Books and Literature",
+  "Homosexuality and Bisexuality",
+  "Dancer From the Dance (Book)",
+  "The Kingdom of Sand (Book)",
+  "Content Type: Personal Profile"
+  ],
+  "org_facet": [
+  "Farrar, Straus & Giroux"
+  ],
+  "per_facet": [
+  "Holleran, Andrew"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/books/00holleran-image2/merlin_207632976_aace3efe-51a2-4b65-ad7c-fbc4f39717f2-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1617,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Andrew Holleran at the Evergreen Cemetery in Gainesville, Fla. His latest novel is about letting go.",
+  "copyright": "Lawren Simmons for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/books/00holleran-image2/00holleran-image2-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Andrew Holleran at the Evergreen Cemetery in Gainesville, Fla. His latest novel is about letting go.",
+  "copyright": "Lawren Simmons for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/books/00holleran-image2/00holleran-image2-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Andrew Holleran at the Evergreen Cemetery in Gainesville, Fla. His latest novel is about letting go.",
+  "copyright": "Lawren Simmons for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3aqrXPo"
+  },
+  {
+  "section": "books",
+  "subsection": "review",
+  "title": "Oxford Quartet: The Women Who Took On the Philosophical Establishment",
+  "abstract": "“Metaphysical Animals” traces the careers and friendships of Iris Murdoch, Philippa Foot, Elizabeth Anscombe and Mary Midgley.",
+  "url": "https://www.nytimes.com/2022/06/05/books/review/metaphysical-animals-clare-mac-cumhaill-rachael-wiseman.html",
+  "uri": "nyt://article/4d7b32bc-f8c0-5a78-acb4-c90883e123e3",
+  "byline": "By Laura Miller",
+  "item_type": "Article",
+  "updated_date": "2022-06-05T10:39:29-04:00",
+  "created_date": "2022-06-05T05:00:04-04:00",
+  "published_date": "2022-06-05T05:00:04-04:00",
+  "material_type_facet": "",
+  "kicker": "Nonfiction",
+  "des_facet": [
+  "Books and Literature",
+  "Metaphysical Animals: How Four Women Brought Philosophy Back to Life (Book)",
+  "Philosophy"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Mac Cumhaill, Clare",
+  "Wiseman, Rachael",
+  "Murdoch, Iris",
+  "Midgley, Mary",
+  "Anscombe, Gertrude Elizabeth Margaret",
+  "Foot, Philippa"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/02/books/review/00Miller-image/00Miller-image-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 624,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "From left: Iris Murdoch, Mary Midgley (née Scrutton), Elizabeth Anscombe and Philippa Foot (née Bosanquet).",
+  "copyright": "The Fellows and the Principal of Somerville College. Anscombe: The Fellows and the Principal of St. Hugh's College."
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/02/books/review/00Miller-image/00Miller-image-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 401,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "From left: Iris Murdoch, Mary Midgley (née Scrutton), Elizabeth Anscombe and Philippa Foot (née Bosanquet).",
+  "copyright": "The Fellows and the Principal of Somerville College. Anscombe: The Fellows and the Principal of St. Hugh's College."
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/02/books/review/00Miller-image/00Miller-image-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "From left: Iris Murdoch, Mary Midgley (née Scrutton), Elizabeth Anscombe and Philippa Foot (née Bosanquet).",
+  "copyright": "The Fellows and the Principal of Somerville College. Anscombe: The Fellows and the Principal of St. Hugh's College."
+  }
+  ],
+  "short_url": "https://nyti.ms/3Ml2owD"
+  },
+  {
+  "section": "books",
+  "subsection": "",
+  "title": "DeLillo, Psychiatry and a Novella",
+  "abstract": "Our critic recommends old and new books.",
+  "url": "https://www.nytimes.com/2022/06/04/books/molly-young-book-recommendations.html",
+  "uri": "nyt://article/985ce7c9-0be3-53e5-972d-fdb1f6e22a5c",
+  "byline": "By Molly Young",
+  "item_type": "Article",
+  "updated_date": "2022-06-04T12:16:43-04:00",
+  "created_date": "2022-06-04T07:50:03-04:00",
+  "published_date": "2022-06-04T07:50:03-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Books and Literature",
+  "internal-sub-only-nl"
+  ],
+  "org_facet": [],
+  "per_facet": [],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1901,
+  "width": 1576,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Lezende jongen,” by Frans Hals",
+  "copyright": ""
+  },
+  {
+  "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Lezende jongen,” by Frans Hals",
+  "copyright": ""
+  },
+  {
+  "url": "https://static01.nyt.com/images/2021/12/29/books/00RLTW-HALS/00RLTW-HALS-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Lezende jongen,” by Frans Hals",
+  "copyright": ""
+  }
+  ],
+  "short_url": "https://nyti.ms/38NmLVk"
+  },
+  {
+  "section": "books",
+  "subsection": "review",
+  "title": "A Memoir of Friendship and Death in a Vacation Idyll",
+  "abstract": "Charles McGrath’s “The Summer Friend” recounts happy days and the gut punch of an untimely death.",
+  "url": "https://www.nytimes.com/2022/06/04/books/review/the-summer-friend-charles-mcgrath.html",
+  "uri": "nyt://article/f0697bd2-3456-5c31-b330-803e16fdf636",
+  "byline": "By Tom Perrotta",
+  "item_type": "Article",
+  "updated_date": "2022-06-04T05:00:03-04:00",
+  "created_date": "2022-06-04T05:00:03-04:00",
+  "published_date": "2022-06-04T05:00:03-04:00",
+  "material_type_facet": "",
+  "kicker": "Nonfiction",
+  "des_facet": [
+  "Books and Literature",
+  "Summer (Season)",
+  "Friendship",
+  "Golf",
+  "Boats and Boating",
+  "Content Type: Personal Profile"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "McGrath, Charles"
+  ],
+  "geo_facet": [
+  "New England States (US)"
+  ],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/19/books/review/19Perrotta/07Perrotta-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1352,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Ciara Quilty-Harper"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/19/books/review/19Perrotta/07Perrotta-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Ciara Quilty-Harper"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/19/books/review/19Perrotta/07Perrotta-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Ciara Quilty-Harper"
+  }
+  ],
+  "short_url": "https://nyti.ms/3x67NC6"
+  },
+  {
+  "section": "arts",
+  "subsection": "television",
+  "title": "The Best Movies and TV Shows Coming to HBO, Hulu, Apple TV+ and More in June",
+  "abstract": "Every month, streaming services add movies and TV shows to their libraries. Here are our picks for some of June’s most promising new titles.",
+  "url": "https://www.nytimes.com/2022/06/03/arts/television/best-movies-hbo-hulu-apple-tv-june.html",
+  "uri": "nyt://article/cf84b413-8a68-5f7c-8f57-17461bdced5a",
+  "byline": "By Noel Murray",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T17:40:16-04:00",
+  "created_date": "2022-06-03T17:40:16-04:00",
+  "published_date": "2022-06-03T17:40:16-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Television",
+  "Movies"
+  ],
+  "org_facet": [
+  "Amazon.com Inc",
+  "Apple TV Plus",
+  "Disney Plus",
+  "HBO Max",
+  "Marvel Entertainment",
+  "Hulu.com",
+  "Paramount Plus"
+  ],
+  "per_facet": [],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03streaming1/merlin_207616413_4223ee86-1219-4f8a-933c-d3c6b7d1b174-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1365,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Erin Doherty as Becky Green in “Chloe.”",
+  "copyright": "Luke Varley/Amazon Studios"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03streaming1/merlin_207616413_4223ee86-1219-4f8a-933c-d3c6b7d1b174-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Erin Doherty as Becky Green in “Chloe.”",
+  "copyright": "Luke Varley/Amazon Studios"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03streaming1/merlin_207616413_4223ee86-1219-4f8a-933c-d3c6b7d1b174-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Erin Doherty as Becky Green in “Chloe.”",
+  "copyright": "Luke Varley/Amazon Studios"
+  }
+  ],
+  "short_url": "https://nyti.ms/3xfzFVo"
+  },
+  {
+  "section": "arts",
+  "subsection": "music",
+  "title": "Bill Walker, Nashville Force as Conductor and Arranger, Dies at 95",
+  "abstract": "He scored chart-topping records for country stars and later served as the musical director of “The Johnny Cash Show.”",
+  "url": "https://www.nytimes.com/2022/06/03/arts/music/bill-walker-dead.html",
+  "uri": "nyt://article/a777ad4f-7515-5cc0-8977-56cc4ee68cc2",
+  "byline": "By Bill Friskics-Warren",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T14:11:35-04:00",
+  "created_date": "2022-06-03T17:14:00-04:00",
+  "published_date": "2022-06-03T17:14:00-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Deaths (Obituaries)",
+  "Country Music"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Walker, Bill (1927-2022)",
+  "Cash, Johnny"
+  ],
+  "geo_facet": [
+  "Nashville (Tenn)"
+  ],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/obituaries/03walker-03-print4/merlin_207987948_b648cb3a-7f8d-4ffb-8a2e-59d1c6f3ae85-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1433,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Mr. Walker in the early 1970s with Loretta Lynn and Ray Charles as they rehearsed for an NBC television special.",
+  "copyright": "Courtesy of the Country Music Hall of Fame and Museum"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/obituaries/03walker-03-print4/03walker-03-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Mr. Walker in the early 1970s with Loretta Lynn and Ray Charles as they rehearsed for an NBC television special.",
+  "copyright": "Courtesy of the Country Music Hall of Fame and Museum"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/obituaries/03walker-03-print4/03walker-03-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Mr. Walker in the early 1970s with Loretta Lynn and Ray Charles as they rehearsed for an NBC television special.",
+  "copyright": "Courtesy of the Country Music Hall of Fame and Museum"
+  }
+  ],
+  "short_url": "https://nyti.ms/3te8IPF"
+  },
+  {
+  "section": "arts",
+  "subsection": "",
+  "title": "Samella Lewis, Artist and Activist for Art World Diversity, Dies at 99",
+  "abstract": "In addition to painting, she was a historian who pushed for a more inclusive definition of art, in part by founding her own museum devoted to Black artists.",
+  "url": "https://www.nytimes.com/2022/06/03/arts/samella-lewis-dead.html",
+  "uri": "nyt://article/6d28a2c5-20af-53d5-90dc-6ab631a003ee",
+  "byline": "By Neil Genzlinger",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T13:08:15-04:00",
+  "created_date": "2022-06-03T16:19:56-04:00",
+  "published_date": "2022-06-03T16:19:56-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Art",
+  "Race and Ethnicity",
+  "Black People",
+  "Museums",
+  "Deaths (Obituaries)"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Lewis, Samella (1923-2022)"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/obituaries/00lewis-image2/00lewis-image2-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1660,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Samella Lewis in 1947 with some of her work. An important mentor was the artist Elizabeth Catlett.",
+  "copyright": "Courtesy of Louis Stern Fine Arts"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/obituaries/00lewis-image2/00lewis-image2-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Samella Lewis in 1947 with some of her work. An important mentor was the artist Elizabeth Catlett.",
+  "copyright": "Courtesy of Louis Stern Fine Arts"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/06/obituaries/00lewis-image2/00lewis-image2-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Samella Lewis in 1947 with some of her work. An important mentor was the artist Elizabeth Catlett.",
+  "copyright": "Courtesy of Louis Stern Fine Arts"
+  }
+  ],
+  "short_url": "https://nyti.ms/3xeQIXD"
+  },
+  {
+  "section": "arts",
+  "subsection": "dance",
+  "title": "Review: Ballet Is Spectacle in ‘Like Water for Chocolate’",
+  "abstract": "Christopher Wheeldon’s full-length work for the Royal Ballet succeeds best when not meeting the demands of storytelling.",
+  "url": "https://www.nytimes.com/2022/06/03/arts/dance/review-ballet-like-water-for-chocolate.html",
+  "uri": "nyt://article/264d7864-ce5f-5044-bf1c-24adec384da6",
+  "byline": "By Roslyn Sulcas",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T21:15:42-04:00",
+  "created_date": "2022-06-03T14:47:06-04:00",
+  "published_date": "2022-06-03T14:47:06-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Dancing",
+  "Like Water for Chocolate (Ballet)"
+  ],
+  "org_facet": [
+  "Royal Ballet"
+  ],
+  "per_facet": [
+  "Wheeldon, Christopher",
+  "Hayward, Francesca (1992- )",
+  "Sambe, Marcellino"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03like-water/merlin_207923289_422783de-490d-4922-a032-ec196512183b-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1418,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Marcelino Sambé in Christopher Wheeldon’s “Like Water for Chocolate.”",
+  "copyright": "Tristram Kenton"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03like-water/03like-water-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Marcelino Sambé in Christopher Wheeldon’s “Like Water for Chocolate.”",
+  "copyright": "Tristram Kenton"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03like-water/03like-water-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Marcelino Sambé in Christopher Wheeldon’s “Like Water for Chocolate.”",
+  "copyright": "Tristram Kenton"
+  }
+  ],
+  "short_url": "https://nyti.ms/3alesk0"
+  },
+  {
+  "section": "arts",
+  "subsection": "music",
+  "title": "Review: Beatrice Rana Plays Tchaikovsky at Human Scale",
+  "abstract": "The pianist made her New York Philharmonic debut with the composer’s Piano Concerto No. 1, on a program with Shostakovich.",
+  "url": "https://www.nytimes.com/2022/06/03/arts/music/review-new-york-philharmonic.html",
+  "uri": "nyt://article/9594dbe2-a23f-5f49-8c43-5f3cabfe3a51",
+  "byline": "By Zachary Woolfe",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T21:17:42-04:00",
+  "created_date": "2022-06-03T12:55:41-04:00",
+  "published_date": "2022-06-03T12:55:41-04:00",
+  "material_type_facet": "",
+  "kicker": "Critic’s Pick",
+  "des_facet": [
+  "Classical Music",
+  "Music"
+  ],
+  "org_facet": [
+  "New York Philharmonic"
+  ],
+  "per_facet": [
+  "Rana, Beatrice",
+  "van Zweden, Jaap"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03nyphil/merlin_207983112_fed08b32-bca3-4e75-ab78-dc1909815ce5-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1365,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Beatrice Rana made her New York Philharmonic debut at the Rose Theater on Thursday.",
+  "copyright": "Chris Lee"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03nyphil/merlin_207983112_fed08b32-bca3-4e75-ab78-dc1909815ce5-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Beatrice Rana made her New York Philharmonic debut at the Rose Theater on Thursday.",
+  "copyright": "Chris Lee"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/04/arts/03nyphil/merlin_207983112_fed08b32-bca3-4e75-ab78-dc1909815ce5-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Beatrice Rana made her New York Philharmonic debut at the Rose Theater on Thursday.",
+  "copyright": "Chris Lee"
+  }
+  ],
+  "short_url": "https://nyti.ms/3anOM6c"
+  },
+  {
+  "section": "movies",
+  "subsection": "",
+  "title": "With ‘Neptune Frost,’ How to Make an Afrofuturist Sci-Fi Musical",
+  "abstract": "What does technological progress look like to those exploited to achieve it? The co-directors Saul Williams and Anisia Uzeyman discuss their unusual film.",
+  "url": "https://www.nytimes.com/2022/06/03/movies/neptune-frost-behind-the-scenes.html",
+  "uri": "nyt://article/9e4aac44-e540-5a0c-8fd9-862b56d749b2",
+  "byline": "By Carlos Aguilar",
+  "item_type": "Article",
+  "updated_date": "2022-06-06T14:44:20-04:00",
+  "created_date": "2022-06-03T12:05:34-04:00",
+  "published_date": "2022-06-03T12:05:34-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Movies",
+  "Neptune Frost (Movie)"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Williams, Saul",
+  "Uzeyman, Anisia"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03neptunefrost-qa4/merlin_207636996_10639997-c82f-4fab-9de2-7911efbc703d-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1263,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Cheryl Isheja in “Neptune Frost,” directed by Saul Williams and Anisia Uzeyman. ",
+  "copyright": "Kino Lorber"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03neptunefrost-qa4/merlin_207636996_10639997-c82f-4fab-9de2-7911efbc703d-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Cheryl Isheja in “Neptune Frost,” directed by Saul Williams and Anisia Uzeyman. ",
+  "copyright": "Kino Lorber"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03neptunefrost-qa4/merlin_207636996_10639997-c82f-4fab-9de2-7911efbc703d-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Cheryl Isheja in “Neptune Frost,” directed by Saul Williams and Anisia Uzeyman. ",
+  "copyright": "Kino Lorber"
+  }
+  ],
+  "short_url": "https://nyti.ms/3H1Wrnj"
+  },
+  {
+  "section": "arts",
+  "subsection": "music",
+  "title": "Yeah Yeahs Yeahs’ Apocalyptic March, and 10 More New Songs",
+  "abstract": "Hear tracks by Kyshona, the Mountain Goats, Maggie Rogers and others.",
+  "url": "https://www.nytimes.com/2022/06/03/arts/music/playlist-yeah-yeahs-yeahs-maggie-rogers.html",
+  "uri": "nyt://article/0e0e4125-28bc-5353-85d3-3b0ba81d2da2",
+  "byline": "By Jon Pareles, Giovanni Russonello and Lindsay Zoladz",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T14:56:43-04:00",
+  "created_date": "2022-06-03T11:33:09-04:00",
+  "published_date": "2022-06-03T11:33:09-04:00",
+  "material_type_facet": "",
+  "kicker": "The Playlist",
+  "des_facet": [
+  "Pop and Rock Music",
+  "Rhythm and Blues (Music)",
+  "Jazz",
+  "Folk Music"
+  ],
+  "org_facet": [
+  "Mountain Goats (Music Group)",
+  "Perfume Genius",
+  "Polica (Music Group)",
+  "Yeah Yeah Yeahs (Music Group)",
+  "Revelators Sound System (Music Group)",
+  "Kamikaze Palm Tree (Music Group)"
+  ],
+  "per_facet": [
+  "Darnielle, John",
+  "Orton, Beth (1970- )",
+  "Rogers, Maggie (1994- )",
+  "Zeitlin, Denny",
+  "Graves, Mel",
+  "Marsh, George (Drummer)",
+  "Georgopoulos, Alexis (Arp)",
+  "Kyshona (Singer)",
+  "Armstrong, JoVia"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03playlist/03playlist-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1366,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "From left: Brian Chase, Karen O and Nick Zinner of the Yeah Yeah Yeahs. The band’s first album in nine years, “Cool It Down,” is due in September.",
+  "copyright": "David Black"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03playlist/03playlist-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "From left: Brian Chase, Karen O and Nick Zinner of the Yeah Yeah Yeahs. The band’s first album in nine years, “Cool It Down,” is due in September.",
+  "copyright": "David Black"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/03playlist/03playlist-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "From left: Brian Chase, Karen O and Nick Zinner of the Yeah Yeah Yeahs. The band’s first album in nine years, “Cool It Down,” is due in September.",
+  "copyright": "David Black"
+  }
+  ],
+  "short_url": "https://nyti.ms/3McozEZ"
+  },
+  {
+  "section": "style",
+  "subsection": "",
+  "title": "An Artist Comfortable in Any Medium, Even Lithium",
+  "abstract": "Lydia Ourahmane creates sprawling installations that challenge geopolitical borders.",
+  "url": "https://www.nytimes.com/2022/06/03/style/lydia-ourahmane-installations-lithium.html",
+  "uri": "nyt://article/4beb413d-1621-5718-8975-85a87bd9f16f",
+  "byline": "By Alex Hawgood",
+  "item_type": "Article",
+  "updated_date": "2022-06-04T12:49:16-04:00",
+  "created_date": "2022-06-03T11:00:08-04:00",
+  "published_date": "2022-06-03T11:00:08-04:00",
+  "material_type_facet": "",
+  "kicker": "Up Next",
+  "des_facet": [
+  "Art",
+  "Content Type: Personal Profile"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Ourahmane, Lydia"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/fashion/03upnext-Ourahmane/merlin_200571792_825f3a12-6ba1-47b2-8ba6-4dc933f79d30-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1527,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Ana Cuba for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/fashion/03upnext-Ourahmane/03upnext-Ourahmane-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Ana Cuba for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/fashion/03upnext-Ourahmane/03upnext-Ourahmane-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Ana Cuba for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3Nj2eqy"
+  },
+  {
+  "section": "movies",
+  "subsection": "",
+  "title": "Five International Movies to Stream Now",
+  "abstract": "This month’s picks include a Kafkaesque Tamil head trip, an Argentine queer drama, a Rwandan girls-school thriller and more.",
+  "url": "https://www.nytimes.com/2022/06/03/movies/international-movies.html",
+  "uri": "nyt://article/de2441ef-c107-5a71-9059-6c7e047f2f25",
+  "byline": "By Devika Girish",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T13:19:06-04:00",
+  "created_date": "2022-06-03T11:00:08-04:00",
+  "published_date": "2022-06-03T11:00:08-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Movies",
+  "Kuthiraivaal (Movie)",
+  "One in a Thousand (Movie)",
+  "Mezquite's Heart (Movie)",
+  "The Perfect Nanny (Movie)",
+  "Our Lady of the Nile (Movie)"
+  ],
+  "org_facet": [],
+  "per_facet": [],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/02/arts/horsetail1/horsetail1-superJumbo.png",
+  "format": "Super Jumbo",
+  "height": 1042,
+  "width": 1948,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Kalaiyarasan in “Kuthiraivaal.”",
+  "copyright": "Yaazhi Films"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/02/arts/horsetail1/horsetail1-threeByTwoSmallAt2X.png",
+  "format": "threeByTwoSmallAt2X",
+  "height": 399,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Kalaiyarasan in “Kuthiraivaal.”",
+  "copyright": "Yaazhi Films"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/02/arts/horsetail1/horsetail1-thumbLarge.png",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Kalaiyarasan in “Kuthiraivaal.”",
+  "copyright": "Yaazhi Films"
+  }
+  ],
+  "short_url": "https://nyti.ms/3NIR1j4"
+  },
+  {
+  "section": "arts",
+  "subsection": "music",
+  "title": "Opera’s ‘Island of Misfit Toys’ Takes Its Biggest Stage Yet",
+  "abstract": "The American Modern Opera Company, a collective of restless and enterprising young musicians and dancers, is preparing for the Ojai Music Festival.",
+  "url": "https://www.nytimes.com/2022/06/03/arts/music/american-modern-opera-company-ojai-festival.html",
+  "uri": "nyt://article/fc54096b-da5d-5fee-a114-28c96ead8062",
+  "byline": "By Joshua Barone",
+  "item_type": "Article",
+  "updated_date": "2022-06-05T00:03:08-04:00",
+  "created_date": "2022-06-03T10:00:08-04:00",
+  "published_date": "2022-06-03T10:00:08-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Opera",
+  "Dancing",
+  "Ojai Music Festival",
+  "Classical Music"
+  ],
+  "org_facet": [
+  "American Modern Opera Company",
+  "Lumberyard Contemporary Performing Arts"
+  ],
+  "per_facet": [
+  "Aucoin, Matthew (1990- )",
+  "Winokur, Zack",
+  "Bullock, Julia",
+  "Cheung, Anthony",
+  "Costanzo, Anthony Roth",
+  "Tines, Davone",
+  "Smith, Bobbi Jene"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/arts/05AMOC-1/05AMOC-1-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1365,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Members of the American Modern Opera Company — from left, Or Schraiber, Julia Bullock, Conor Hanick and Bobbi Jene Smith — rehearsing a staged production of Messiaen’s “Harawi” at Lumberyard.",
+  "copyright": "Lauren Lancaster for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/arts/05AMOC-1/05AMOC-1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Members of the American Modern Opera Company — from left, Or Schraiber, Julia Bullock, Conor Hanick and Bobbi Jene Smith — rehearsing a staged production of Messiaen’s “Harawi” at Lumberyard.",
+  "copyright": "Lauren Lancaster for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/arts/05AMOC-1/05AMOC-1-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Members of the American Modern Opera Company — from left, Or Schraiber, Julia Bullock, Conor Hanick and Bobbi Jene Smith — rehearsing a staged production of Messiaen’s “Harawi” at Lumberyard.",
+  "copyright": "Lauren Lancaster for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3zaivtU"
+  },
+  {
+  "section": "style",
+  "subsection": "",
+  "title": "Cobalt Blue Is Color Rushing Our Summer",
+  "abstract": "“With so much turmoil in the world right now, it’s important to bring joy to life’s moments.”",
+  "url": "https://www.nytimes.com/2022/06/03/style/cobalt-blue.html",
+  "uri": "nyt://article/b23a059e-a7ef-58c6-98b5-147ab415f51a",
+  "byline": "By Lia Picard",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T22:18:11-04:00",
+  "created_date": "2022-06-03T05:00:18-04:00",
+  "published_date": "2022-06-03T05:00:18-04:00",
+  "material_type_facet": "",
+  "kicker": "All consuming",
+  "des_facet": [
+  "Ceramics and Pottery",
+  "Design",
+  "Color"
+  ],
+  "org_facet": [],
+  "per_facet": [],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/fashion/03-all-consuming-cobalt1/merlin_207796272_1247d778-3c6a-4d12-bdd8-e1e349b9443e-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1536,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "DEEP BLACK"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/fashion/03-all-consuming-cobalt1/03-all-consuming-cobalt1-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "DEEP BLACK"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/fashion/03-all-consuming-cobalt1/03-all-consuming-cobalt1-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "DEEP BLACK"
+  }
+  ],
+  "short_url": "https://nyti.ms/3xcBdzt"
+  },
+  {
+  "section": "arts",
+  "subsection": "television",
+  "title": "Antony Starr Contends With Accountability, Onscreen and Off",
+  "abstract": "Starr, who plays the cruel superhero Homelander on the Amazon Prime Video series “The Boys,” returns to TV after his conviction in an assault in Spain earlier this year.",
+  "url": "https://www.nytimes.com/2022/06/03/arts/television/antony-starr-the-boys.html",
+  "uri": "nyt://article/fbf883c5-9338-5416-b41b-dc04cb12f6e3",
+  "byline": "By Dave Itzkoff",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T17:40:17-04:00",
+  "created_date": "2022-06-03T05:00:10-04:00",
+  "published_date": "2022-06-03T05:00:10-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Television",
+  "The Boys (TV Program)",
+  "Actors and Actresses",
+  "Content Type: Personal Profile"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Starr, Antony"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/12/arts/03antony-starr-main/merlin_207473418_c934f338-cbe2-43b5-81ec-f7643af714e8-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1463,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Antony Starr, a veteran film and TV star in his native New Zealand, has gained new visibility from the superhero satire “The Boys.” ",
+  "copyright": "Alex Welsh for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/12/arts/03antony-starr-main/03antony-starr-main-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Antony Starr, a veteran film and TV star in his native New Zealand, has gained new visibility from the superhero satire “The Boys.” ",
+  "copyright": "Alex Welsh for The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/12/arts/03antony-starr-main/03antony-starr-main-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "Antony Starr, a veteran film and TV star in his native New Zealand, has gained new visibility from the superhero satire “The Boys.” ",
+  "copyright": "Alex Welsh for The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3amFmIr"
+  },
+  {
+  "section": "books",
+  "subsection": "review",
+  "title": "New in Paperback: ‘Gay Bar’ and ‘Afterparties’",
+  "abstract": "Six new paperbacks to check out this week.",
+  "url": "https://www.nytimes.com/2022/06/03/books/review/new-paperbacks.html",
+  "uri": "nyt://article/840d945c-2f69-58f2-b753-bcbe793a7afa",
+  "byline": "By Miguel Salazar",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T23:39:24-04:00",
+  "created_date": "2022-06-03T05:00:04-04:00",
+  "published_date": "2022-06-03T05:00:04-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Books and Literature"
+  ],
+  "org_facet": [],
+  "per_facet": [],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/books/05PAPERROW-GRID/05PAPERROW-GRID-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1038,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": ""
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/books/05PAPERROW-GRID/05PAPERROW-GRID-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": ""
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/books/05PAPERROW-GRID/05PAPERROW-GRID-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": ""
+  }
+  ],
+  "short_url": "https://nyti.ms/3Mg7hqG"
+  },
+  {
+  "section": "arts",
+  "subsection": "",
+  "title": "5 Things to Do This Weekend",
+  "abstract": "Selections from the Weekend section, including a preview of the shows coming to television and streaming services this summer.",
+  "url": "https://www.nytimes.com/interactive/2022/06/03/arts/weekend-editors-picks-summer-TV.html",
+  "uri": "nyt://interactive/3c66eed0-217b-5030-a667-d39e2af177e8",
+  "byline": "By Danielle Dowling",
+  "item_type": "Interactive",
+  "updated_date": "2022-06-03T05:00:01-04:00",
+  "created_date": "2022-06-03T05:00:01-04:00",
+  "published_date": "2022-06-03T05:00:01-04:00",
+  "material_type_facet": "",
+  "kicker": "",
+  "des_facet": [
+  "Movies",
+  "Art",
+  "Homosexuality and Bisexuality",
+  "Television",
+  "Museums",
+  "Westworld (TV Program)",
+  "Better Call Saul (TV Program)"
+  ],
+  "org_facet": [
+  "AMC (TV Network)",
+  "HBO Max",
+  "Joe's Pub",
+  "Hulu.com",
+  "Marvel Entertainment",
+  "Pels, Laura, Theater"
+  ],
+  "per_facet": [
+  "Bourgeois, Louise"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/02/arts/03wkd-ttd-summertv-title/03wkd-ttd-summertv-title-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1150,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Marvel/Disney"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/02/arts/03wkd-ttd-summertv-title/03wkd-ttd-summertv-title-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 399,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Marvel/Disney"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/02/arts/03wkd-ttd-summertv-title/02summertv-marvel-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "",
+  "copyright": "Marvel/Disney"
+  }
+  ],
+  "short_url": "https://nyti.ms/3MeZ0TT"
+  },
+  {
+  "section": "books",
+  "subsection": "review",
+  "title": "2 Literary Novels Find the Poetry in Animal Rescue",
+  "abstract": "A Nobel laureate and a future publisher play major roles in Margarita Engle’s “Singing With Elephants” and Michael Morpurgo’s “The Puffin Keeper.”",
+  "url": "https://www.nytimes.com/2022/06/03/books/review/singing-with-elephants-margarita-engle-the-puffin-keeper-michael-morpurgo-benji-davies.html",
+  "uri": "nyt://article/b050daba-e265-567a-a4f9-fad90949efb7",
+  "byline": "By Eliot Schrefer",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T23:38:07-04:00",
+  "created_date": "2022-06-03T00:06:53-04:00",
+  "published_date": "2022-06-03T00:06:53-04:00",
+  "material_type_facet": "",
+  "kicker": "Children’s Books",
+  "des_facet": [
+  "Books and Literature",
+  "Children and Childhood",
+  "genre-books-childrens",
+  "Singing With Elephants (Book)",
+  "The Puffin Keeper (Book)"
+  ],
+  "org_facet": [],
+  "per_facet": [
+  "Engle, Margarita (1951- )",
+  "Morpurgo, Michael",
+  "Davies, Benji"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/books/review/05KIDS-ELEPHANT/05KIDS-ELEPHANT-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 2048,
+  "width": 1356,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Singing With Elephants” cover image.",
+  "copyright": "Oriol Vidal"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/books/review/05KIDS-ELEPHANT/05KIDS-ELEPHANT-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Singing With Elephants” cover image.",
+  "copyright": "Oriol Vidal"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/05/books/review/05KIDS-ELEPHANT/05KIDS-ELEPHANT-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "“Singing With Elephants” cover image.",
+  "copyright": "Oriol Vidal"
+  }
+  ],
+  "short_url": "https://nyti.ms/3GI6uh3"
+  },
+  {
+  "section": "theater",
+  "subsection": "",
+  "title": "‘… What the End Will Be’ Review: Learning to Let Go",
+  "abstract": "The intergenerational comedy is a poignant reflection on sexuality, mortality and Black masculinity by the playwright Mansa Ra.",
+  "url": "https://www.nytimes.com/2022/06/02/theater/what-the-end-will-be-review.html",
+  "uri": "nyt://article/e39eeec8-83ba-50b9-ae3f-776c49fd51a3",
+  "byline": "By Naveen Kumar",
+  "item_type": "Article",
+  "updated_date": "2022-06-03T09:46:14-04:00",
+  "created_date": "2022-06-02T21:30:05-04:00",
+  "published_date": "2022-06-02T21:30:05-04:00",
+  "material_type_facet": "",
+  "kicker": "Critic’s Pick",
+  "des_facet": [
+  "Theater",
+  "...What the End Will Be (Play)"
+  ],
+  "org_facet": [
+  "Pels, Laura, Theater",
+  "Roundabout Theater Co"
+  ],
+  "per_facet": [
+  "Bordelon, Margot (1980- )",
+  "Holder, Jireh Breon",
+  "Ra, Mansa"
+  ],
+  "geo_facet": [],
+  "multimedia": [
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/02what-the-end/merlin_207739125_6fbd7e17-6ec0-4e68-83f4-dc6e0ef37bb6-superJumbo.jpg",
+  "format": "Super Jumbo",
+  "height": 1365,
+  "width": 2048,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "From left, Keith Randolph Smith, Gerald Caesar and Emerson Brooks in the play “…What the End Will Be” at the Laura Pels Theater.",
+  "copyright": "Sara Krulwich/The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/02what-the-end/merlin_207739125_6fbd7e17-6ec0-4e68-83f4-dc6e0ef37bb6-threeByTwoSmallAt2X.jpg",
+  "format": "threeByTwoSmallAt2X",
+  "height": 400,
+  "width": 600,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "From left, Keith Randolph Smith, Gerald Caesar and Emerson Brooks in the play “…What the End Will Be” at the Laura Pels Theater.",
+  "copyright": "Sara Krulwich/The New York Times"
+  },
+  {
+  "url": "https://static01.nyt.com/images/2022/06/03/arts/02what-the-end/02what-the-end-thumbLarge.jpg",
+  "format": "Large Thumbnail",
+  "height": 150,
+  "width": 150,
+  "type": "image",
+  "subtype": "photo",
+  "caption": "From left, Keith Randolph Smith, Gerald Caesar and Emerson Brooks in the play “…What the End Will Be” at the Laura Pels Theater.",
+  "copyright": "Sara Krulwich/The New York Times"
+  }
+  ],
+  "short_url": "https://nyti.ms/3msHMYR"
+  }
+  ]
+  }
