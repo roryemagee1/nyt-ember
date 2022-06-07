@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300,300italic,400,700,700italic);
+/* @import url(https://fonts.googleapis.com/css?family=Lato:300,300italic,400,700,700italic); */
 
 /**
  * Base Elements
@@ -231,7 +231,7 @@ p {
 .one-article {
   margin-top: 15px;
   background-color: #fff;
-  padding: 20px 25px;
+  /* padding: 20px 25px; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -315,11 +315,13 @@ p {
   flex-basis: 50%;
   flex-grow: 2;
   display: flex;
+  /* height: 25vw; */
   height: 150px;
   margin: 20px 25px;
   justify-content: space-between;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   align-content: space-around;
+  flex-direction: column;
 }
 
 .one-article h3 {
