@@ -447,8 +447,8 @@ p {
   position: relative;
 }
 
-.tomster {
-  background: url(../assets/images/teaching-tomster.png);
+.nyt-dev-logo {
+  background: url(https://developer.nytimes.com/logos/mobile_logo?v=1600101623490);
   background-size: contain;
   background-repeat: no-repeat;
   height: 200px;
