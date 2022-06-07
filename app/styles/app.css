@@ -194,26 +194,26 @@ p {
  * Similar to Jumbotron
  */
 
-.jumbo {
+.banner {
   padding: 50px;
   background: #f6f6f6;
 }
 
-.jumbo:hover {
+.banner:hover {
   background-color: #f3f3f3;
 }
 
-.jumbo h2 {
+.banner h2 {
   font-size: 3.2em;
   margin-top: -25px;
 }
 
-.jumbo p,
-.jumbo address {
+.banner p,
+.banner address {
   margin-bottom: 25px;
 }
 
-.jumbo img {
+.banner img {
   height: 200px;
   position: relative;
   top: -25px;
