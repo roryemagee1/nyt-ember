@@ -1,18 +1,18 @@
 <article class="one-article">
-  <Image />
+  <Image @article-card={{@article-card}}/>
   <div class="details">
     <h3>{{@article-card.results.0.title}}</h3>
     <div class="detail author">
-      <span>Author:</span> John Smith
+      <span></span> {{@article-card.results.0.byline}}
     </div>
     <div class="detail type">
-      <span>Type:</span> Art
+      <span>Subject:</span> {{@article-card.results.0.section}}
     </div>
-    <div class="detail lead">
-      <span>Lead:</span> Sample text...
+    <div class="detail abstract">
+      <span>Abstract:</span> {{@article-card.results.0.abstract}}
     </div>
     <div class="detail etcetera">
-      <span>Etcetera:</span> ...
+      <span>Published:</span> {{@article-card.results.0.published_date}}
     </div>
   </div>
 </article>

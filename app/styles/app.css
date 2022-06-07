@@ -339,8 +339,12 @@ p {
   flex-basis: 50%;
   font-weight: 300;
   font-style: italic;
-  white-space: nowrap;
+  /* white-space: nowrap; */
 }
+
+/*  */
+
+/*  */
 
 .one-article .detail span {
   font-weight: 400;
