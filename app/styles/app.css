@@ -217,10 +217,11 @@ p {
 }
 
 .banner img {
-  height: 200px;
-  position: relative;
+  width: 200px;
+  /* height: 200px; */
+  /* position: relative;
   top: -25px;
-  right: -20px;
+  right: -20px; */
 }
 
 /**
@@ -229,7 +230,7 @@ p {
 
 .one-article {
   margin-top: 15px;
-  background-color: #f6f6f6;
+  background-color: #fff;
   padding: 20px 25px;
   display: flex;
   justify-content: space-between;
@@ -238,7 +239,7 @@ p {
 }
 
 .one-article:hover {
-  background-color: #f3f3f3;
+  background-color: #f9f9f9;
 }
 
 .one-article img {
