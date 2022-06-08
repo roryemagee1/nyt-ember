@@ -8,6 +8,7 @@ export default class DetailRoute extends Route {
       return {...result, id: index}
     })
     let output = newResults.find(result => result.id == params.id);
+    console.log(output);
     return [output];
   }
 }
