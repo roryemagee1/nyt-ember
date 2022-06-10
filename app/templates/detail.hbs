@@ -1,0 +1,8 @@
+<div class="articles">
+  <ul class="results">
+    {{#each @model as |article-card|}}
+      {{!-- <li><ArticleCard @article-card={{article-card}}/></li> --}}
+      <li><DetailView @article-card={{article-card}}/></li>
+    {{/each}}
+  </ul>
+</div>
