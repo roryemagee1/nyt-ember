@@ -11,6 +11,5 @@ export default class IndexService extends Service {
   }
 
   searchData(text) {
-
   }
 }

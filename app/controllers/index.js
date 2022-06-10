@@ -9,5 +9,7 @@ export default class IndexController extends Controller {
   @action
   searchTitles(event) {
     let text = event.target.value
+    this.index.text = text;
+    console.log(this.index.text);
   }
 }
