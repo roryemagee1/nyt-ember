@@ -15,7 +15,8 @@ export default class IndexRoute extends Route {
     });
     // console.log(this.index.fetched);
     this.index.storeData(newResults);
+    return newResults;
     // console.log(this.index.fetched);
-    return this.index.fetched.data
+    // return this.index.fetched.data
   }
 }
