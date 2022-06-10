@@ -1,8 +1,8 @@
 import Route from '@ember/routing/route';
-// import { inject as service } from '@ember/service';
+import { inject as service } from '@ember/service';
 
 export default class IndexRoute extends Route {
-  // @service index;
+  @service index;
 
   async model() {
     // let response = await fetch('/api/mock.json');
@@ -14,8 +14,8 @@ export default class IndexRoute extends Route {
       return { ...result, id: index };
     });
     // console.log(this.index.fetched);
-    // this.index.storeData(newResults);
+    this.index.storeData(newResults);
     // console.log(this.index.fetched);
-    return newResults;
+    return this.index.fetched.data
   }
 }
